@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"Here's the path to grow your career with MAC Pizza."},{"start":2944,"text":"Most of our leaders started as Customer Service Reps or Drivers"},{"start":6311,"text":"just like you."},{"start":7341,"text":"From there, you can move into Shift Management, then step up to Assistant Manager."},{"start":11616,"text":"Next comes General Manager in Training, "},{"start":13739,"text":"where you’ll learn how to run the store like it’s your own."},{"start":16255,"text":"After that, it’s General Manager"},{"start":18586,"text":"—leading your team and driving results."},{"start":20714,"text":"From there? District Manager, Director, or even Franchisee."},{"start":24433,"text":"Yep, it’s possible."},{"start":25954,"text":"We’ve got a management development program to help you level up at every step."},{"start":30028,"text":"If you’ve got the drive, we’ve got the roadmap."}]}]};
+    window.globalLoadJsAsset('story_content/5VxxgNJNXEd_transcripts.js', JSON.stringify(data));
+})();

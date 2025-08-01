@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"Let's say it again."},{"start":1542,"text":"You're safety and the safety of others is our #1 priority."},{"start":5222,"text":"That means absolutely no distractions while you're behind the wheel."},{"start":8803,"text":"Don't talk on your phone.  Don't text."},{"start":11458,"text":"Don't check receipts, directions, or count money."},{"start":14624,"text":"No smoking, vaping, or eating while driving."},{"start":17613,"text":"If you need to do ANYTHING, pull over first."},{"start":21120,"text":"One moment of distraction can change everything."},{"start":24128,"text":"Stay focused.  Stay alert.  And get there safe."}]}]};
+    window.globalLoadJsAsset('story_content/5hJAjPW14rm_transcripts.js', JSON.stringify(data));
+})();
