@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"Domino’s is a global brand, but not every store is owned by the same company. "},{"start":4352,"text":"At MAC Pizza, we are a franchise—"},{"start":7488,"text":"which means we are a local business that’s part of the larger Domino’s family. "},{"start":11744,"text":"We follow Domino’s standards and use their systems, "},{"start":14720,"text":"but our stores are owned by MAC Pizza "},{"start":17120,"text":"and guided and supported by our MAC Pizza leadership team. "},{"start":20576,"text":"That means your performance and growth matter to real people who live and work right here in Texas. "},{"start":26048,"text":"When you win, we all win."}]}]};
-    window.globalLoadJsAsset('story_content/6PnBjnOhrDL_transcripts.js', JSON.stringify(data));
-})();

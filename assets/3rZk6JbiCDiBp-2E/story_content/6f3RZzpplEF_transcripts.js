@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"So, what makes a great Dominoid? "},{"start":1665,"text":"It’s someone who shows up on time, in full uniform, ready to work."},{"start":5386,"text":"They take pride in their station, hustle smart—"},{"start":7809,"text":"not recklessly—"},{"start":8957,"text":"and always look for ways to help the team without being asked. "},{"start":11760,"text":"Most importantly, they know how to make someone’s day with a simple smile."},{"start":15808,"text":"When you carry yourself like that, the rest becomes second nature."},{"start":19008,"text":"Here’s a quick look at the core responsibilities you’ll be expected to handle on a shift."}]}]};
-    window.globalLoadJsAsset('story_content/6f3RZzpplEF_transcripts.js', JSON.stringify(data));
-})();

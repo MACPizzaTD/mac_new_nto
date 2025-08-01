@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"Life happens—we get it. But when you can’t make your shift,"},{"start":3616,"text":"communication is everything.\r\nHere’s what to do:"},{"start":6784,"text":"Let your GM or store know at least 2 hours in advance."},{"start":9856,"text":"Don’t wait until the last minute."},{"start":11403,"text":"You must be the one to make the call"},{"start":13270,"text":"—no texting through a friend."},{"start":15133,"text":"If you're going to miss your shift,"},{"start":16798,"text":"try to find another trained team member to cover for you."},{"start":19579,"text":"If it’s a medical reason, a doctor’s note may be required."},{"start":23091,"text":"Make sure to stay in touch with your GM throughout the process—not just once. "},{"start":26967,"text":"Bottom line? Be responsible, "},{"start":29249,"text":"communicate clearly, and be someone your team can count on."}]}]};
-    window.globalLoadJsAsset('story_content/6MR8TJsXZFo_transcripts.js', JSON.stringify(data));
-})();

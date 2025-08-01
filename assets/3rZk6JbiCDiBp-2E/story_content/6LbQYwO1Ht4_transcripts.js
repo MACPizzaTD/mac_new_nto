@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"If you're ever asked to drive in a way that's unsafe"},{"start":2752,"text":"or illegal, for any reason, you are required to report it right away."},{"start":7139,"text":"Here's what to do:"},{"start":8374,"text":"Call the Domino's Safety Hotline at 1-800-284-0911."},{"start":13856,"text":"Contact MAC Pizza HR at the office at 979-985-2815"},{"start":19782,"text":"or send an email to hr@macpizza.net."},{"start":23168,"text":"If it's after hours,"},{"start":24384,"text":"reach out to your District Manager or call a nearby store and ask the manager for help."},{"start":28928,"text":"You're safety comes first, always."}]}]};
-    window.globalLoadJsAsset('story_content/6LbQYwO1Ht4_transcripts.js', JSON.stringify(data));
-})();

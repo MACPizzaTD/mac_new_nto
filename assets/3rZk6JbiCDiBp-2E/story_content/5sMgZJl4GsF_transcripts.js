@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"On your first day, your shirt and hat will be provided by your store—"},{"start":3840,"text":"so you’ll be ready to rep MAC Pizza from the start."},{"start":6976,"text":"Your shirt must stay clean and in good condition."},{"start":9632,"text":"No stains, holes, or stretched-out collars."},{"start":12544,"text":"Your hat should always be worn forward-facing and in line with dress code standards. "},{"start":17472,"text":"No flipping it backward or customizing it."},{"start":20064,"text":"If you need another shirt or hat down the road,"},{"start":22336,"text":"just ask your GM and they’ll guide you on how to get more."},{"start":25408,"text":"Looking sharp is part of showing up as a pro. "},{"start":27840,"text":"It reflects pride in your store—and in yourself."}]}]};
-    window.globalLoadJsAsset('story_content/5sMgZJl4GsF_transcripts.js', JSON.stringify(data));
-})();

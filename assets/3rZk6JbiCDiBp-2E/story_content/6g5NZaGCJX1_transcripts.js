@@ -1,5 +1,0 @@
-
-(function() {
-    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"You may have noticed some tasks repeating across roles—"},{"start":2816,"text":"and that’s not by accident.\r\nAt MAC Pizza, we believe in cross training. "},{"start":7008,"text":"The more you know, the more valuable and confident you’ll feel during your shift."},{"start":11072,"text":"Whether you’re stretching dough, topping pizzas, or helping customers,"},{"start":14816,"text":"being trained in multiple areas keeps the store running smoothly"},{"start":18240,"text":"and opens the door for growth."},{"start":20192,"text":"Think of it as leveling up your skills"},{"start":22084,"text":"and having more opportunities to shine!"}]}]};
-    window.globalLoadJsAsset('story_content/6g5NZaGCJX1_transcripts.js', JSON.stringify(data));
-})();
