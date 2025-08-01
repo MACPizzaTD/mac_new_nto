@@ -1,0 +1,603 @@
+{
+  "version": "3.86.32080.0",
+  "course_id": "5nOAr4rw0LP",
+  "title": "New Team Member Orientation",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Welcome & History"
+    },
+    {
+      "title": "Values"
+    },
+    {
+      "title": "DPF, Policies, Harassment"
+    },
+    {
+      "title": "Scheduling, Attendance, Image"
+    },
+    {
+      "title": "Pay, Reimbursement, Benefits"
+    },
+    {
+      "title": "Advancement, Hustle, Wowing"
+    },
+    {
+      "title": "Responsibilities, Food Safety, FHC"
+    },
+    {
+      "title": "Safety, Incidents, Drivosity"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5mmkgovGMVk",
+      "title": "Title",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "68gMaIMSkOv",
+      "title": "Title",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5x6hr7f3Wcs",
+      "title": "Title",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6dxECVKL6av",
+      "title": "Introduction",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "69b4gSZ2nRG",
+      "title": "Domino's History",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "600ULqD1VFg",
+      "title": "Franchise",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5mWmSwX6iKu",
+      "title": "Hiring Question",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6ZGZUloKuer",
+      "title": "Knowledge Check 1",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "67WlLd2DoLs",
+      "title": "History of MAC",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5nxXWFjhFau",
+      "title": "First Location",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "680yVu1PpMf",
+      "title": "First Order",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6VR3SwC57st",
+      "title": "Mike and Alan",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6kYsz6vn3sC",
+      "title": "MAC Locations",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "5nArR97po8q",
+      "title": "MAC Pizza Family",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "61A8DOyf9G6",
+      "title": "Welcome to MAC Pizza",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "5gLgstZHrWj",
+      "title": "Our Values",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5wcFTOwZ5T9",
+      "title": "What's a  Core Value",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6ZhPdPuB3fF",
+      "title": "Core Values Intro",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "6lyXE5biKkX",
+      "title": "People",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6ZfkEurGRZ5",
+      "title": "Resoect",
+      "scene_index": "2.5"
+    },
+    {
+      "id": "626DuNffivg",
+      "title": "Integrity",
+      "scene_index": "2.6"
+    },
+    {
+      "id": "604Jgbe24w0",
+      "title": "Drive",
+      "scene_index": "2.7"
+    },
+    {
+      "id": "5aPsu3WUJ2x",
+      "title": "Elevate",
+      "scene_index": "2.8"
+    },
+    {
+      "id": "5bGcR6yerrw",
+      "title": "Core Values Summary",
+      "scene_index": "2.9"
+    },
+    {
+      "id": "5YD6WjfnnTI",
+      "title": "Knowledge Check 2",
+      "scene_index": "2.10"
+    },
+    {
+      "id": "5u8qB1RbIFP",
+      "title": "Partners Foundation",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "5cKWCyUaC3g",
+      "title": "DPF Video",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5wQXqOY9AhF",
+      "title": "DPF Details",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6G0ADJ2Hm7H",
+      "title": "MAC Policies",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5tMO5aqXev6",
+      "title": "TM Handbook",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5i4xevHNa0H",
+      "title": "Open Door Policy",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5Z05fZLE6iH",
+      "title": "Speak Up",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5XzjqIyADWH",
+      "title": "Harassment",
+      "scene_index": "3.8"
+    },
+    {
+      "id": "6lVh6Jo2Seu",
+      "title": "Harassment Policy",
+      "scene_index": "3.9"
+    },
+    {
+      "id": "6BWHDSg1HIs",
+      "title": "Knowledge Check 3",
+      "scene_index": "3.10"
+    },
+    {
+      "id": "63g4IycqLOQ",
+      "title": "Scheduling & Attendance",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "63u7xMqGcOg",
+      "title": "Availability",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6SkNdtOfFA8",
+      "title": "Attendance Policy",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "6iWvzlttTMM",
+      "title": "Weather ",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6n2H3487JBE",
+      "title": "Knowledge Check 4",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "6fE5MGJsN4t",
+      "title": "Requesting Time Off",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "6CpChmclN0m",
+      "title": "Image",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "6j8s8lcn2rh",
+      "title": "Perfect Image",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "6dx2Ic0wdJ9",
+      "title": "Shirt and Hat",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "6aqpzOmGGAa",
+      "title": "Getting Ready",
+      "scene_index": "4.10"
+    },
+    {
+      "id": "6bElsfbUUfS",
+      "title": "Pants and Shoes",
+      "scene_index": "4.11"
+    },
+    {
+      "id": "5dTSmSq0Yfv",
+      "title": "Unapproved Pants",
+      "scene_index": "4.12"
+    },
+    {
+      "id": "6V6KF3QtbjY",
+      "title": "Unapproved shoes",
+      "scene_index": "4.13"
+    },
+    {
+      "id": "68smWZDabS8",
+      "title": "While in Uniform",
+      "scene_index": "4.14"
+    },
+    {
+      "id": "5deJeJMdlUc",
+      "title": "Uniform Expectations",
+      "scene_index": "4.15"
+    },
+    {
+      "id": "6NE2VLqOSoI",
+      "title": "Drag and Drop",
+      "scene_index": "4.16"
+    },
+    {
+      "id": "6FpVhk98QI2",
+      "title": "Pay Information",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5V3rZPsKQpn",
+      "title": "Pay Days Explained",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "6G1G4zpcGyf",
+      "title": "MyPay",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "5sQP4tYEuTJ",
+      "title": "Tips, Mileage, Reimbursement",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "5l4r1x60MeJ",
+      "title": "Tip Reporting",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "5sJNKrVnLAU",
+      "title": "Reporting Tips to the IRS",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "6IjLyJQCA9i",
+      "title": "Impact on Benefits",
+      "scene_index": "5.7"
+    },
+    {
+      "id": "6n8GhV3cpuD",
+      "title": "Knowledge Check 6",
+      "scene_index": "5.8"
+    },
+    {
+      "id": "6QUdOXG4vbo",
+      "title": "Benefits",
+      "scene_index": "5.9"
+    },
+    {
+      "id": "5nhXNq2VKfV",
+      "title": "Benefits Explained",
+      "scene_index": "5.10"
+    },
+    {
+      "id": "5ta7lsYRsNE",
+      "title": "Referral Bonus",
+      "scene_index": "5.11"
+    },
+    {
+      "id": "5ttjKWOhisY",
+      "title": "Referral Bonus Explained",
+      "scene_index": "5.12"
+    },
+    {
+      "id": "6ZaX2laNTCw",
+      "title": "Employee Discount",
+      "scene_index": "5.13"
+    },
+    {
+      "id": "6UABe3JCPpX",
+      "title": "Employee Discount Explained",
+      "scene_index": "5.14"
+    },
+    {
+      "id": "6eE7NPqpSor",
+      "title": "Career Advancement",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "6SappsF3ePh",
+      "title": "Growth Opportunities",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6itK6UL3MiY",
+      "title": "Smart Hustle",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "6Vd0enCzT30",
+      "title": "Smart Hustle Explanation",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6KRZ63ZWCKT",
+      "title": "Unsafe Driving Disclaimer",
+      "scene_index": "6.5"
+    },
+    {
+      "id": "5aqvcK2Br4n",
+      "title": "Steps to Take ",
+      "scene_index": "6.6"
+    },
+    {
+      "id": "6NM5TEtokkF",
+      "title": "Knowledge Check 7",
+      "scene_index": "6.7"
+    },
+    {
+      "id": "5ymwULgSWeG",
+      "title": "Wowing the Customer",
+      "scene_index": "6.8"
+    },
+    {
+      "id": "62K1IqEuX8U",
+      "title": "WOW Steps",
+      "scene_index": "6.9"
+    },
+    {
+      "id": "5aB455BRLqc",
+      "title": "Wowing at the Door",
+      "scene_index": "6.10"
+    },
+    {
+      "id": "6MvhVwkAOIe",
+      "title": "Knowledge Check 8",
+      "scene_index": "6.11"
+    },
+    {
+      "id": "6HuFvVkBatG",
+      "title": "Responsibilities",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5ZOZ3iuZ9o2",
+      "title": "What Makes a Great Dominoid",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "5eIlfLMmuT9",
+      "title": "General Responsibilities",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "5onwVjmOCs2",
+      "title": "General Responsibilities cont..",
+      "scene_index": "7.4"
+    },
+    {
+      "id": "60zmN1D0ETR",
+      "title": "CSR Tasks",
+      "scene_index": "7.5"
+    },
+    {
+      "id": "5X2dU8lmpTD",
+      "title": "Driver Tasks",
+      "scene_index": "7.6"
+    },
+    {
+      "id": "601R8mxInCJ",
+      "title": "Cross Training",
+      "scene_index": "7.7"
+    },
+    {
+      "id": "6XI6E6GhgiS",
+      "title": "Training Videos",
+      "scene_index": "7.8"
+    },
+    {
+      "id": "6Y9KNVnsH7r",
+      "title": "Food Safety",
+      "scene_index": "7.9"
+    },
+    {
+      "id": "6VHw3jTwkgV",
+      "title": "Washing Your Hands",
+      "scene_index": "7.10"
+    },
+    {
+      "id": "6SFIXHrou01",
+      "title": "Wearing an Apron",
+      "scene_index": "7.11"
+    },
+    {
+      "id": "5mEKGW2eypY",
+      "title": "Temperatures",
+      "scene_index": "7.12"
+    },
+    {
+      "id": "5bEagRr1eni",
+      "title": "FIFO",
+      "scene_index": "7.13"
+    },
+    {
+      "id": "69jtU5dSj6k",
+      "title": "Food Safety Closing",
+      "scene_index": "7.14"
+    },
+    {
+      "id": "60bnBmGGt19",
+      "title": "Knowledge Check 9",
+      "scene_index": "7.15"
+    },
+    {
+      "id": "6K0mmjBaWOu",
+      "title": "Food Handler Cards",
+      "scene_index": "7.16"
+    },
+    {
+      "id": "69Xkwsowi11",
+      "title": "Fullschedule.com",
+      "scene_index": "7.17"
+    },
+    {
+      "id": "5WU2myCDCOY",
+      "title": "Safety",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "5zsWWF9Q2KG",
+      "title": "On the Road Safety Intro",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "6dtLVFV3xra",
+      "title": "Driving Safe",
+      "scene_index": "8.3"
+    },
+    {
+      "id": "5seR6TVVkxb",
+      "title": "Safe Driving Tips",
+      "scene_index": "8.4"
+    },
+    {
+      "id": "6rOotkEhE6C",
+      "title": "Distracted Driving",
+      "scene_index": "8.5"
+    },
+    {
+      "id": "6lHfjeKbJNh",
+      "title": "In Store Safety",
+      "scene_index": "8.6"
+    },
+    {
+      "id": "5xgzaar1ssa",
+      "title": "Security Callbacks",
+      "scene_index": "8.7"
+    },
+    {
+      "id": "6l5qBykLTvp",
+      "title": "Cash Handling",
+      "scene_index": "8.8"
+    },
+    {
+      "id": "6Pt3jjMbxDh",
+      "title": "Safety Closing",
+      "scene_index": "8.9"
+    },
+    {
+      "id": "6HYoZIK7o75",
+      "title": "Knowledge Check 10",
+      "scene_index": "8.10"
+    },
+    {
+      "id": "5uureL2SMkw",
+      "title": "Knowledge Check 11",
+      "scene_index": "8.11"
+    },
+    {
+      "id": "6ID7rx55TvO",
+      "title": "Incident Reporting",
+      "scene_index": "8.12"
+    },
+    {
+      "id": "680maJcBMeM",
+      "title": "Incident Reporting Steps",
+      "scene_index": "8.13"
+    },
+    {
+      "id": "6LHUFbidoMw",
+      "title": "Accident Reporting Tips",
+      "scene_index": "8.14"
+    },
+    {
+      "id": "6TRrL7JIDNP",
+      "title": "Driver App and Drivosity",
+      "scene_index": "8.15"
+    },
+    {
+      "id": "5fLByRUt3fg",
+      "title": "Delivery Experience App",
+      "scene_index": "8.16"
+    },
+    {
+      "id": "5kWXUOZTfM7",
+      "title": "Drivosity & Car Tops",
+      "scene_index": "8.17"
+    },
+    {
+      "id": "5VVgmdNFYDT",
+      "title": "Welcome to the MAC Pack",
+      "scene_index": "8.18"
+    },
+    {
+      "id": "67RAcqk4hiU",
+      "title": "Exit Slide",
+      "scene_index": "8.19"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

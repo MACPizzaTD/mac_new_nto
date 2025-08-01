@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"Your General Manager will set the schedule for your store"},{"start":3027,"text":"and they may have their own process for handling things "},{"start":5575,"text":"like availability and time-off requests."},{"start":8152,"text":"Your GM should post the schedule for the following week by Monday of the current week."},{"start":13504,"text":"The most important thing? "},{"start":15328,"text":"Communication."},{"start":16832,"text":"If you need time off, talk to your GM as early as possible."},{"start":20928,"text":"The more notice you give, the easier it is to plan around it."},{"start":24672,"text":"Just remember: requests are not guarantees. "},{"start":28096,"text":"If your store has a need, you may still be scheduled"},{"start":31264,"text":"even if it’s a day you requested off outside your normal availability."},{"start":35488,"text":"Bottom line? Be reliable, "},{"start":37760,"text":" be flexible, and keep the communication open with your team."}]}]};
+    window.globalLoadJsAsset('story_content/63yJtoNmVAV_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"As a driver, you'll start each shift"},{"start":2298,"text":"with a $15 bank to make change."},{"start":5056,"text":"You must never carry more than $20 in cash at any time."},{"start":9312,"text":"If you use your bank to make change, when you return to the store,"},{"start":12992,"text":"you can exchange it with the shift manager for smaller bills,"},{"start":16384,"text":"a $20 break."},{"start":18432,"text":"All cash and credit card receipts must"},{"start":20864,"text":"be secured in your assigned lock box after each run."},{"start":24480,"text":"This protects sensitive customer info."},{"start":27040,"text":"Bring your own lock for your locker."},{"start":29059,"text":"A small travel lock works great."}]}]};
+    window.globalLoadJsAsset('story_content/5qSMjUymiLT_transcripts.js', JSON.stringify(data));
+})();

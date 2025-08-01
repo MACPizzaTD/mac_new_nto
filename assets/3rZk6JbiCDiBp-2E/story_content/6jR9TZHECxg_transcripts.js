@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"You'll be expected to be in full uniform anytime you're clocked in at the store."},{"start":3904,"text":"That includes all training shifts.  By now,"},{"start":6560,"text":"you should have received your hat and shirt.  Just make sure you're also in approved pants and shoes"},{"start":11360,"text":"before heading in.  If you arrive out of uniform,"},{"start":14528,"text":"even for training, you'll be sent home to change before you're allowed to clock in."},{"start":19040,"text":"Showing up in the right uniform is a simple way to show you're ready to be part of the team"},{"start":23456,"text":"and represent MAC Pizza with PRIDE."}]}]};
+    window.globalLoadJsAsset('story_content/6jR9TZHECxg_transcripts.js', JSON.stringify(data));
+})();

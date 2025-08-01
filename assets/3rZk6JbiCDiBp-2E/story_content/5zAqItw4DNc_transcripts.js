@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":32,"text":"We do offer benefits to team members once certain milestones are hit."},{"start":4032,"text":"If you average 130 hours/month"},{"start":6710,"text":"over 12 months (about 33 hours/week),"},{"start":10027,"text":"our Benefits team will reach out"},{"start":11679,"text":"to help you get enrolled in health insurance."},{"start":14368,"text":"You’re also eligible 2 months after becoming an Assistant Manager."},{"start":18144,"text":"No need to wait a full year!"},{"start":19968,"text":"If you’re 21 or older and have worked 1,000 hours over"},{"start":23552,"text":"12 months, you’ll be automatically enrolled in our "},{"start":26752,"text":"401(k) Retirement Plan."}]}]};
+    window.globalLoadJsAsset('story_content/5zAqItw4DNc_transcripts.js', JSON.stringify(data));
+})();
